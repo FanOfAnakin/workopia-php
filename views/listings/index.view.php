@@ -1,7 +1,6 @@
 <?php
 loadPartial("head");
 loadPartial("nav");
-loadPartial("showcase");
 loadPartial("top-banner");
 ?>
 
@@ -171,10 +170,6 @@ loadPartial("top-banner");
         </div>
       </div>
     </div>
-    <a href="/Workopia/public/listings" class="block text-xl text-center">
-      <i class="fa fa-arrow-alt-circle-right"></i>
-      Show All Jobs
-    </a>
 </section>
 
 <?php
