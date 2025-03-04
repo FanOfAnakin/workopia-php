@@ -1,0 +1,16 @@
+{
+    "name": "fanofanakin/workopia-php",
+    "description": "Job Listin Site",
+    "authors": [
+        {
+            "name": "Tonmoy",
+            "email": "ddiag000@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
